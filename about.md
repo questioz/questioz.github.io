@@ -5,5 +5,5 @@ permalink: /about/
 published: true
 ---
 
+Hi, This is a blog for sharing my high school research projects.
 
-Hi, This is a blog for sharing my high school reserach projects.
