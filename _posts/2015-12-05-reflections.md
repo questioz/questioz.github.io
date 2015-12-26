@@ -1,11 +1,17 @@
 ---
 layout: post
 title: "Reflections"
+photo_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Two_equestrian_riders,_girls_on_horseback,_in_low_tide_reflections_on_serene_Morro_Strand_State_Beach.jpg/640px-Two_equestrian_riders,_girls_on_horseback,_in_low_tide_reflections_on_serene_Morro_Strand_State_Beach.jpg"
 published: true
 categories: [Lifestyle]
 tags: [Poem]
 ---
 >Based on the poem 'Mirror' by Sylvia Plath.
+
+<figure>
+    <figcaption>Source: Wikimedia.org</figcaption>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Two_equestrian_riders,_girls_on_horseback,_in_low_tide_reflections_on_serene_Morro_Strand_State_Beach.jpg/640px-Two_equestrian_riders,_girls_on_horseback,_in_low_tide_reflections_on_serene_Morro_Strand_State_Beach.jpg' alt='Riders' />
+</figure>
 
 You look good. Really. But you're so paranoid that you're not perfect, I know you won't buy it. Instead, you believe that you don't look good at all, and the realisation is accompanied by you wringing your hands in dismay and that panicked look I've gotten so used to. 
 
