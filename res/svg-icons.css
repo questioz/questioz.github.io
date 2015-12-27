@@ -146,3 +146,12 @@ img {
   padding-left: 5px;
 }
 
+/* added by me */
+#license {
+    font-size: 0.8em;    
+}
+
+figure figcaption {
+    text-align: end;
+    font-size: 0.9em;
+}
