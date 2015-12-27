@@ -7,9 +7,8 @@ categories: [Lifestyle]
 tags: [Poem]
 ---
 >Based on the poem 'Mirror' by Sylvia Plath.
-
 <figure>
-    <figcaption>Photo source: Wikimedia.org</figcaption>
+    <figcaption>Photo source: wikimedia.org</figcaption>
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Two_equestrian_riders,_girls_on_horseback,_in_low_tide_reflections_on_serene_Morro_Strand_State_Beach.jpg/640px-Two_equestrian_riders,_girls_on_horseback,_in_low_tide_reflections_on_serene_Morro_Strand_State_Beach.jpg' alt='Riders' />
 </figure>
 

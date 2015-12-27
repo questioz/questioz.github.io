@@ -707,7 +707,11 @@ footer {
 }*/
 
 /* added by me */
-#license 
-{
+#license {
     font-size: 0.8em;    
+}
+
+figure figcaption {
+    text-align: end;
+    font-size: 0.9em;
 }
