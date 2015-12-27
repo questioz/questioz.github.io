@@ -705,3 +705,9 @@ footer {
   }
   html.ipad { zoom:70%; }
 }*/
+
+/* added by me */
+#license 
+{
+    font-size: 0.8em;    
+}
